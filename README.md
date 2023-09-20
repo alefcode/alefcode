@@ -2,7 +2,7 @@
 
 - 💻 Soy Ingeniero de Sistemas Computacionales, Mi objetivo principal es resolver problemas de manera eficiente y crear soluciones tecnológicas que mejoren la vida de las personas.
     
-- 🚀 Mis habilidades incluyen: Vb.Net • C#.Net • Kotlin • JavaScript • php • SQL • Mysql • MongoDb • Node.Js • Express • Android Studio • Google Cloud Platform • Firebase(Auth, Push Notification, Storage) • Google Maps(Api Maps Android, Api Route). • Api Stripe. Si tienes un proyecto interesante, ¡me encantaría contribuir!
+- 🚀 Mis habilidades incluyen: Vb.Net • C#.Net • Kotlin • JavaScript • php • SQL • Mysql • MongoDb • Node.Js • Express • Google Cloud Platform • Firebase(Auth, Push Notification, Storage) • Google Maps(Api Maps Android, Api Route). • Api Stripe. Si tienes un proyecto interesante, ¡me encantaría contribuir!
   
 - 🤝 Me encanta la colaboración y la comunidad. Participo en hackathones, eventos de código abierto y conferencias para aprender y compartir conocimientos.
   
